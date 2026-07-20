@@ -1,1 +1,1 @@
-export const status = "ready";
+export const status = "ready";  // TODO: production acceptance fixture
