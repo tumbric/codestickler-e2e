@@ -1,0 +1,4 @@
+name: Avoid TODO markers
+instruction: New code must not add TODO markers.
+files:
+  - "**/*.ts"
